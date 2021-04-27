@@ -27,7 +27,7 @@ b) Program v počítači napojeném na Arduino
 
 c)modifikovanu klávesnici/ jakýkoliv jiný input systém
 
-***Až bude Model 1 plně funkční a ozkoušený, nastane výměna horizontálního sercomotoru za motor krokový, který spolu s přesunutím elektroniky do věže turretu umožní otáčení o 360 stupňů bez slepých bodů***
+***Až bude Model 1 plně funkční a ozkoušený, nastane výměna horizontálního servomotoru za motor krokový, který spolu s přesunutím elektroniky do věže turretu umožní otáčení o 360 stupňů bez slepých bodů***
 
 
 
