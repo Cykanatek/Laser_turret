@@ -10,7 +10,7 @@ Nemá žádný finální produkt ani cíl, jde pouze o volnočasovou aktivitu
 
 Model 1
 
-Robot je ovládán platformou Arduino UNO, napájen 9V baterií.
+Robot je ovládán platformou Arduino UNO, napájen 9V baterií / 5V zdrojem ze sítě.
 Pohyb zajišťují dva servomotory a vybavený 5mW 650nm laserem.
 
 Schéma zapojení přidám do složky /Images (pokud se k tomu dostanu)
@@ -19,15 +19,13 @@ Zároveň jsou v této složce fotorafie sestaveného robota
 ---
 **TODO:**
 
-***Je potřeba vybrat a zrealizovat jednu z metod pro vkládání dat:***
+***Metoda vkládání dat vybrána***
 
-a) Ovladač složený ze dvou spring-loaded potenciometrů
-
-b) Program v počítači napojeném na Arduino
-
-c)modifikovanu klávesnici/ jakýkoliv jiný input systém
+Pomocí dvou potenciometrů bude možné ovládat obě osy pohybu (princip "autíčka na ovládání")
 
 ***Až bude Model 1 plně funkční a ozkoušený, nastane výměna horizontálního servomotoru za motor krokový, který spolu s přesunutím elektroniky do věže turretu umožní otáčení o 360 stupňů bez slepých bodů***
+
+***Až budou všechny předchozí body splněny, tak (pokud na to budou finanční prostředky) se pokusím o spárování s kamerou a programem na rozpoznávání tváří***
 
 
 
